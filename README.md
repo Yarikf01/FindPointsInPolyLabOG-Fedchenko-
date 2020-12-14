@@ -1,1 +1,1 @@
-# FindPointsInPolyLabOG-Fedchenko-
+# FindPointsInPolyLabOG-FedchenkoYaroslav Варіант 20 АГ1-
